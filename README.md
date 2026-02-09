@@ -9,8 +9,7 @@
 📍 Paris-Saclay University — **GENIOMHE-AI Program**
 ---
 
-## 🧪 List of my projects
-- link
+## List of my project (link)
 ---
 
 ## 🧬 About Me
