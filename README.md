@@ -4,7 +4,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
----
 
 🎓 Master’s Student in **Bioinformatics**  
 📍 Paris-Saclay University — **GENIOMHE-AI Program**
