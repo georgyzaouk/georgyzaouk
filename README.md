@@ -8,8 +8,6 @@
 
 🎓 Master’s Student in **Bioinformatics**  
 📍 Paris-Saclay University — **GENIOMHE-AI Program**
-
-> **
 ---
 
 ## 🧪 List of my projects
