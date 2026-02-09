@@ -7,10 +7,8 @@
 
 🎓 Master’s Student in **Bioinformatics**  
 📍 Paris-Saclay University — **GENIOMHE-AI Program**
----
 
 ## List of my project (link)
----
 
 ## 🧬 About Me
 I’m a bioinformatics student passionate about using **code as a lens to understand biology**.  
