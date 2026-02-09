@@ -1,16 +1,15 @@
 ## Hi there it's Georgy 👋
-
-🎓 Master’s Student in **Bioinformatics**  
-📍 Paris-Saclay University — **GENIOMHE-AI Program**
-
-> **
-
-## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+---
+
+🎓 Master’s Student in **Bioinformatics**  
+📍 Paris-Saclay University — **GENIOMHE-AI Program**
+
+> **
 ---
 
 ## 🧬 About Me
