@@ -13,7 +13,7 @@
 ## 🧬 About Me
 I’m a bioinformatics student passionate about using **code as a lens to understand biology**.  
 From genome-scale data analysis to small scripts that save hours of work, I enjoy building tools that make biological questions computable.
----
+
 
 ## 🔬 Fields of Study
 - **Gene Annotation** — identifying and characterizing genes and their functions  
