@@ -12,6 +12,10 @@
 > **
 ---
 
+## 🧪 List of my projects
+- link
+---
+
 ## 🧬 About Me
 I’m a bioinformatics student passionate about using **code as a lens to understand biology**.  
 From genome-scale data analysis to small scripts that save hours of work, I enjoy building tools that make biological questions computable.
@@ -23,10 +27,6 @@ From genome-scale data analysis to small scripts that save hours of work, I enjo
 - **Genetic Diseases** — studying genetic variants and their links to diseases  
 ---
 
-
-## 🧪 List of my projects
-- link
----
 <!--
 **georgyzaouk/georgyzaouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
