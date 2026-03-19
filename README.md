@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
 🎓 Master’s Student in **Bioinformatics**  
-📍 Paris-Saclay University — **GENIOMHE-AI Program**
+📍 Université Paris-Saclay — **GENIOMHE-AI Program**
 
 [Here is a list of my projects !](https://github.com/georgyzaouk?tab=stars)
 
