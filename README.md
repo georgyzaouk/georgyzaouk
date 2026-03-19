@@ -14,7 +14,7 @@
 
 I have long been passionate about the intersection of the worlds of technology and biology, drawn to the idea of using technology to solve complex biological problems.
 
-This interest led me to pursue a Bachelor's degree in [Bioinformatics](https://soas.lau.edu.lb/academics/programs/bs-bioinformatics.php) at the Lebanese American University in Beirut, before continuing this journey as a Master's student in [GENIOMHE-AI](https://www.universite-paris-saclay.fr/formation/master/bio-informatique/m1-genomics-informatics-mathematics-and-artificial-intelligence-health-and-environment-geniome-ai) at Université Paris-Saclay.
+This interest led me to pursue a Bachelor's degree in [Bioinformatics](https://soas.lau.edu.lb/academics/programs/bs-bioinformatics.php) at the Lebanese American University in Beirut, before continuing this journey as a Master's student in [GENIOMHE-AI](http://www.universite-paris-saclay.fr/formation/master/bio-informatique/m1-genomics-informatics-mathematics-and-artificial-intelligence-health-and-environment-geniomhe-ai) at Université Paris-Saclay.
 
 ## 🔬 Fields of Study
 ---
