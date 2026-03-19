@@ -8,7 +8,7 @@
 🎓 Master’s Student in **Bioinformatics**  
 📍 Paris-Saclay University — **GENIOMHE-AI Program**
 
-## List of my project (link)
+## [Here is a list of my projects !](https://github.com/georgyzaouk?tab=stars)
 
 ## 🧬 About Me
 
